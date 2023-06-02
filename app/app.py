@@ -1,4 +1,4 @@
-""" A simple todo application  """
+""" A simple todo application"""
 from flask import Flask, jsonify, request
 
 app = Flask(__name__)
